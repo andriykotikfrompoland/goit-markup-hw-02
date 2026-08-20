@@ -2,10 +2,13 @@
   background-color: #f4f4fd;
 }
 .team-subtitle {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.11;
   text-align: center;
-  color: #434455;
+  color: #2e2f42;
 }
-.team-list {
+.team-list li {
   background-color: #fff;
 }
 .team-img {
